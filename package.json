@@ -1,0 +1,20 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "01_01": "node 01\\01.js",
+    "01_02": "node 01\\02.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpummer/AoC2021.git"
+  },
+  "author": "tpummer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpummer/AoC2021/issues"
+  },
+  "homepage": "https://github.com/tpummer/AoC2021#readme"
+}
